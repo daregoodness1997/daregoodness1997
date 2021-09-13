@@ -1,5 +1,6 @@
-<body background="#14213d">
-  <h1>Hi there 👋 I am Dare Goodness</h1>
+<body style = "background:"#14213d" >
+  <h1 align="center">Hi there 👋 I am Dare Goodness</h1>
+  <p>- 🔭 I’m currently working on designing and bulding accessible products using different Tech Stacks</p>
  </body>
 
 
@@ -8,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
